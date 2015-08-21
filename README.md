@@ -10,9 +10,9 @@ Meeting notice: title of the meeting
 
 **Issue Description should contain:**
 <br/>
-Community: Community name
-Date: dd/mm/yyyy
-Time: hh:mm
-Duration: duration of the meeting (e.g. 1h, 20m, 1h30)
+Community: Community name<br/>
+Date: dd/mm/yyyy<br/>
+Time: hh:mm<br/>
+Duration: duration of the meeting (e.g. 1h, 20m, 1h30)<br/>
 
 For the meetings begin time please make sure to submit time on UTC's timezone.
